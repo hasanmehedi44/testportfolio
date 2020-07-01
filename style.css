@@ -150,6 +150,25 @@ section {
     width: 700;
 }
 
+.contact-point {
+    text-align: center;
+    margin-bottom: 19px;
+}
+
+.address {
+    background-color: rgb(85, 82, 82);
+    color: aliceblue;
+    margin: 2% 59px;
+}
+.address {
+    width: 40%;
+    float: left;
+}
+
+.address ul li {
+    list-style-type: none;
+}
+
 
 
 
