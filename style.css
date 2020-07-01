@@ -1,0 +1,158 @@
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+h3 {
+    font-size: 40px;
+}
+.name-highlight {
+    font-size: 50px;
+    color: rgb(187, 42, 50);
+
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img {
+    width: 100%;
+    height: 100%;
+}
+
+section {
+    height: 700px;
+    margin-top: 25px;
+    padding-top: 40px;
+    
+}
+.text {
+    margin-top: 50px;
+}
+
+.link-button {
+    margin: 20px 10px;
+    text-decoration: none;
+    padding: 10px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    background-color: rgb(212, 11, 88);
+}
+.first-section a {
+    margin-top: 20px;
+}
+.first-section p {
+    padding-bottom: 35px;
+    line-height: 29px;
+}
+
+.first-section {
+    background-image: url(personal-website/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100%;
+}
+
+.biography {
+    background-image: url(personal-website/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 600px;
+    background-size: 100%;
+}
+
+.biography p {
+    margin-bottom: 35px;
+    line-height: 29px;
+}
+
+.image {
+    height: 600px;
+    width: 480px;
+}
+
+
+.latest h1 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+
+.latest {
+    background-image: url(personal-website/latest-work-bg.png);
+    background-repeat: no-repeat;
+    height: 500px;
+    background-position: top;
+    background-size: 100%;
+}
+
+
+.latest .third-width {
+    margin-left: 5%;
+}
+
+
+.third-width img {
+    width: 100%;
+    height: 100%;
+}
+
+.third-width .internal-third {
+    width: 30%;
+    margin-left: 1%;
+    float: left;
+}
+
+.footer h1 {
+    text-align: center;
+    padding-bottom:20px;
+}
+
+.footer {
+    background-image: url(personal-website/footer-bg.png);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100%;
+}
+
+.footer .founder {
+    text-align: center;
+    padding-bottom:20px;
+}
+
+.footer p {
+    text-align: center;
+    width: 20%;
+    padding-left: 40%;
+    margin-bottom: 40px;
+}
+
+.link {
+    text-align: center;
+    padding: 18px 101px;
+    border-radius: 5px;
+    width: 250px;
+    margin-left: 36%;
+    margin-bottom: 200px;
+    background-color: rgb(226, 43, 83);
+
+}
+
+.link a {
+    text-decoration: none;
+    color: white;
+    width: 700;
+}
+
+
+
+
+
+
+
