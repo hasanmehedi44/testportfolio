@@ -87,13 +87,13 @@ section {
     background-image: url(personal-website/latest-work-bg.png);
     background-repeat: no-repeat;
     height: 500px;
-    background-position: top;
-    background-size: 100%;
+    background-position: right;
+    background-size:75%;
 }
 
 
 .latest .third-width {
-    margin-left: 5%;
+    margin-left: 8%;
 }
 
 
